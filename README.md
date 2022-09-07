@@ -1,3 +1,3 @@
 # bryantmath421.github.io
 
-- [Assignment 1](Assignment1.html)
+- [Click here Assignment 1](Assignment1.html)
